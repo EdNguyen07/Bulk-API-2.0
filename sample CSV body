@@ -1,0 +1,6 @@
+{
+"operation" : "insert",
+"object" : "Account",
+"contentType" : "CSV",
+"lineEnding" : "CRLF"
+}
